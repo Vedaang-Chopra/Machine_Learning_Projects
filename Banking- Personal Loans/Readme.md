@@ -1,11 +1,11 @@
 # Banking: Identify Personal Loan Customers
 
-##Domain:
+## Domain:
 
-###Banking
+### Banking
 
 
-##Objective:
+## Objective:
 
 The classification goal is to predict the likelihood of a liability 
 customer buying personal loans.
